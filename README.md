@@ -1,15 +1,15 @@
 
 <div align="center">
 
-# ⚡ Hello, I'm Abolfazl!
+# ⚡ Hi, I'm Abolfazl Samareh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Electronics+%26+Circuit+Design;C%2B%2B+%7C+Python+%7C+MATLAB;Simulation+%26+Embedded+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Electrical+Engineering+Student;Electronics+%26+Circuit+Design;C%2B%2B+Developer;Engineering+Simulation" />
 
 <br>
 
-💡 Electrical Engineering Student  
-⚙️ Interested in Electronics, Programming & Simulation  
-🚀 Learning by Building Real Projects
+Electrical Engineering Student at Sharif University of Technology
+
+⚡ Electronics | 💻 Programming | 🔌 Circuit Design
 
 </div>
 
@@ -18,24 +18,30 @@
 ## 🧠 About Me
 
 - ⚡ Electrical Engineering student at Sharif University of Technology
-- 🔌 Interested in Analog & Digital Electronics
-- 💻 Exploring C++, Python, MATLAB and Web Development
+- 🔌 Interested in Analog and Digital Electronics
+- 💻 Working with C++ and MATLAB
 - 📡 Interested in Signal Processing and Electromagnetics
-- 🛠️ I enjoy designing circuits and building engineering simulations
+- 🛠️ Building circuit simulators and digital systems
 
 ---
 
-## 💻 Technologies & Tools
+## 🛠️ Tools & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,matlab,html,css,js,git,github,vscode,clion&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,matlab,git,github&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Proteus-Engineering-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Digital-Logic%20Design-purple?style=for-the-badge" />
+
+<br>
+
+<img src="https://img.shields.io/badge/LTspice-Circuit%20Simulation-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vivado-FPGA-orange?style=for-the-badge" />
 
 </div>
-
-### Engineering Tools
-
-`LTspice` `PSpice` `Digital` `SDL2` `MicroPython` `Wokwi`
 
 ---
 
